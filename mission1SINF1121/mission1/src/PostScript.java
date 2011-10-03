@@ -26,7 +26,7 @@ public class PostScript implements PostScriptInterface {
 		
 	}
 
-
+	//Test edition
 
 	@Override
 	public void startInterpreter() {
